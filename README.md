@@ -51,6 +51,5 @@ The server listens on `localhost:5000` for Twilio websocket connections.
 - `.env` — Environment variables (not committed)
 - `config.json` — Deepgram agent configuration
 
-## License
 
-MIT License
+
